@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud and Devops Babies Community</title>
+    <link>https://cloudandevopsbabies.community/</link>
+    <description>Recent content on Cloud and Devops Babies Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cloudandevopsbabies.community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://cloudandevopsbabies.community/contact/</link>
+      <pubDate>Sun, 05 Sep 2021 19:44:35 +1000</pubDate>
+      
+      <guid>https://cloudandevopsbabies.community/contact/</guid>
+      <description>This is the contact page.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://cloudandevopsbabies.community/resume/</link>
+      <pubDate>Sun, 05 Sep 2021 19:43:13 +1000</pubDate>
+      
+      <guid>https://cloudandevopsbabies.community/resume/</guid>
+      <description>This is my resume</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cloudandevopsbabies.community/about/</link>
+      <pubDate>Sun, 05 Sep 2021 19:15:37 +1000</pubDate>
+      
+      <guid>https://cloudandevopsbabies.community/about/</guid>
+      <description>This is the about page</description>
+    </item>
+    
+  </channel>
+</rss>

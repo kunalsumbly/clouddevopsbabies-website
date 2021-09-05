@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cloudandevopsbabies.community/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cloud and Devops Babies Community'
+theme= 'basic'
